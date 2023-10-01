@@ -8331,6 +8331,24 @@ a[data-toggle="collapse"] {
 .subscribe-form .form-control {
   background: #4897fc; }
 
+  /* my changes */
+.img-index {
+  width: 185px;
+  height: 180px;
+  border-radius: 7px;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.card-text {
+  margin: auto;
+}
+
+.card-title {
+  text-align: center;
+}
+
 
 
 
